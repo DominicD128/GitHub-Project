@@ -16,14 +16,40 @@ export default function examplePage() {
   real-world problems. In my free time, I enjoy cycling, fishing, and
   working on technology projects.
 </p>
+<h2>Fun Facts About Me</h2>
 
-          <a className='button' href='/'>
+<p>🚗 I helped build an electric race car in high school.</p>
+<p>🚴 I enjoy cycling and exploring nature.</p>
+<p>🎣 Fishing is one of my favorite hobbies.</p>
+<p>☕ I enjoy making V60 coffee.</p>
+
+<h2>My Classes</h2>
+
+<ul>
+  <li>Computer Science 1: Starting Computing</li>
+  <li>Computer Science as a Field of Work and Study</li>
+  <li>Calculus 1</li>
+  <li>Visual Culture</li>
+  
+</ul>
+       <h2>My Interests</h2>
+
+<p>Artificial Intelligence 🤖</p>
+<p>Computer Science 💻</p>
+<p>Engineering ⚙️</p>
+<p>Fitness and Running 🏃</p>
+<p>Cycling and Fishing 🚴🎣</p>   
+
+
+<a className='button' href='/'>
             <p> Back to Home Page</p>
           </a>
         </main>
 
         <style jsx>{`
           .container {
+            background: #111827;
+           color: #ffffff;
             min-height: 100vh;
             padding: 0 0.5rem;
             display: flex;
@@ -44,6 +70,7 @@ export default function examplePage() {
           }
 
           .title {
+            color: #cfb87c;
             margin: 0;
             line-height: 1.15;
             font-size: 4rem;
@@ -57,6 +84,7 @@ export default function examplePage() {
           .description {
             line-height: 1.5;
             font-size: 1.5rem;
+            color: #d1d5db;
           }
 
           .pic {
