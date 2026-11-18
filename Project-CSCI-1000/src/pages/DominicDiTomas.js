@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, I'm Dominic DiTomas. </h1>
           </div>
           <img
             className='pic'
@@ -15,7 +15,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-          My name is Dominic DiTomas and I have finished
+          I'm Dominic, a Computer Science student at the University of Colorado Boulder. I'm interested in cybersecurity and how we can protect digital systems and solve security challenges. In my free time, I enjoy working on technology projects and exploring new areas of computing.
           </p>
 
           <a className='button' href='/'>
