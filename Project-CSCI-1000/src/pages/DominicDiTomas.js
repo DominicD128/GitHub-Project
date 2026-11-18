@@ -8,11 +8,7 @@ export default function examplePage() {
           <div className='underline'>
             <h1 className='title'>Hey, I'm Dominic DiTomas. </h1>
           </div>
-          <img
-            className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
-          />
+      
 
           <p className='description'>
           I'm Dominic, a Computer Science student at the University of Colorado Boulder. I'm interested in cybersecurity and how we can protect digital systems and solve security challenges. In my free time, I enjoy working on technology projects and exploring new areas of computing.
